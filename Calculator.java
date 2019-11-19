@@ -6,5 +6,6 @@ class Calculator implements CalculatorInterface{
    public double division(int firtValue, int secondValue){
    }
    public int multification(int firtValue, int secondValue){
+	return (firtValue * secondValue);
    }
 }
