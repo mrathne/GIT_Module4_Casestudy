@@ -9,5 +9,6 @@ class Calculator implements CalculatorInterface{
 	return (firtValue / secondValue);
    }
    public int multification(int firtValue, int secondValue){
+	return (firtValue * secondValue);
    }
 }
