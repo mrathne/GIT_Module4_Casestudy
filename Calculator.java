@@ -3,6 +3,7 @@ class Calculator implements CalculatorInterface{
 	return firtValue + secondValue;
    }
    public int substraction(int firtValue, int secondValue){
+	return firtValue - secondValue;
    }
    public double division(int firtValue, int secondValue){
    }
