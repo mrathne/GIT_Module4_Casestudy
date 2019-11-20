@@ -4,6 +4,7 @@ class Calculator implements CalculatorInterface{
    public int substraction(int firtValue, int secondValue){
    }
    public double division(int firtValue, int secondValue){
+	return (firtValue / secondValue);
    }
    public int multification(int firtValue, int secondValue){
    }
